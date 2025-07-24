@@ -130,16 +130,27 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 
-<div align="center"> <p>Empowering learners worldwide through quality education</p> </div> ```
+<div align="center"> <p>Empowering learners worldwide through quality education</p> </div> 
+
+
 Key features of this README:
 
 Professional header with badges and logo
+
 Organized feature sections with emoji icons
+
 Responsive screenshot gallery
+
 Clean tech stack breakdown
+
 Clear installation instructions
+
 Environment configuration guide
+
 Contribution guidelines
+
 License and contact information
+
 Mobile-responsive design
+
 Consistent visual styling
